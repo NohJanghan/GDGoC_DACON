@@ -1,6 +1,7 @@
 train/
 test/
 temp/
+cache/
 
 *.csv
 !*submit*.csv
