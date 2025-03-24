@@ -2,6 +2,7 @@ train/
 test/
 temp/
 cache/
+eda/
 
 *.csv
 !*submit*.csv
